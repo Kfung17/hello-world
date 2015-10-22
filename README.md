@@ -9,7 +9,7 @@
 	<body>
 	<table>
 	  <thead>
-	     <th>Universities</th>
+	     <th>Shops At Yale</th>
 	  </thead>
 	   <tbody>
 	      <tr>
